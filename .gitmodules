@@ -1,0 +1,3 @@
+[submodule "dummy_repo"]
+	path = dummy_repo
+	url = https://github.com/ajay-ummadi/dummy_repo.git
